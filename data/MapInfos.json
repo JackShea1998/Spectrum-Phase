@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"TestMaps","order":3,"parentId":0,"scrollX":2115.5,"scrollY":2412.5},
-{"id":2,"expanded":true,"name":"Experiment626","order":4,"parentId":1,"scrollX":772.5,"scrollY":475.5},
-{"id":3,"expanded":false,"name":"Snowball'sRoom","order":2,"parentId":5,"scrollX":904.5,"scrollY":1270.5},
+{"id":1,"expanded":true,"name":"TestMaps","order":3,"parentId":0,"scrollX":2116,"scrollY":2412},
+{"id":2,"expanded":true,"name":"Experiment626","order":4,"parentId":1,"scrollX":656,"scrollY":421.3333333333333},
+{"id":3,"expanded":false,"name":"Snowball'sRoom","order":2,"parentId":5,"scrollX":657.3333333333334,"scrollY":1120},
 {"id":4,"expanded":false,"name":"ThePlaceTheDoorGoes","order":5,"parentId":2,"scrollX":772.5,"scrollY":475.5},
-{"id":5,"expanded":true,"name":"Museum","order":1,"parentId":0,"scrollX":3603.5,"scrollY":5246.5}
+{"id":5,"expanded":true,"name":"Museum","order":1,"parentId":0,"scrollX":2874.6666666666665,"scrollY":5213.333333333333}
 ]
