@@ -1,8 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"TestMaps","order":3,"parentId":0,"scrollX":2115.5,"scrollY":2412.5},
-{"id":2,"expanded":true,"name":"Experiment626","order":4,"parentId":1,"scrollX":772.5,"scrollY":475.5},
-{"id":3,"expanded":false,"name":"Snowball'sRoom","order":2,"parentId":5,"scrollX":904.5,"scrollY":1270.5},
-{"id":4,"expanded":false,"name":"ThePlaceTheDoorGoes","order":5,"parentId":2,"scrollX":772.5,"scrollY":475.5},
-{"id":5,"expanded":true,"name":"Museum","order":1,"parentId":0,"scrollX":3603.5,"scrollY":5246.5}
+{"id":1,"expanded":true,"name":"TestMaps","order":6,"parentId":0,"scrollX":2046,"scrollY":1902},
+{"id":2,"expanded":true,"name":"Experiment626","order":7,"parentId":1,"scrollX":842.7272727272727,"scrollY":518.7272727272727},
+{"id":3,"expanded":false,"name":"Snowball'sRoom","order":2,"parentId":5,"scrollX":1228,"scrollY":1132},
+{"id":4,"expanded":false,"name":"ThePlaceTheDoorGoes","order":8,"parentId":2,"scrollX":772.5,"scrollY":475.5},
+{"id":5,"expanded":true,"name":"Museum","order":1,"parentId":0,"scrollX":3058.3636363636365,"scrollY":5329.636363636364},
+{"id":6,"expanded":false,"name":"The Director's Office","order":3,"parentId":5,"scrollX":824,"scrollY":1268},
+{"id":7,"expanded":false,"name":"Bathroom","order":4,"parentId":5,"scrollX":846,"scrollY":1170},
+{"id":8,"expanded":false,"name":"Janitor's Closet","order":5,"parentId":5,"scrollX":834,"scrollY":921.2727272727274}
 ]
