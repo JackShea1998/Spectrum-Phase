@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"TestMaps","order":6,"parentId":0,"scrollX":2046,"scrollY":1902},
 {"id":2,"expanded":true,"name":"Experiment626","order":7,"parentId":1,"scrollX":842.7272727272727,"scrollY":518.7272727272727},
-{"id":3,"expanded":false,"name":"Snowball'sRoom","order":2,"parentId":5,"scrollX":986.7272727272727,"scrollY":1156.909090909091},
+{"id":3,"expanded":false,"name":"Snowball'sRoom","order":2,"parentId":5,"scrollX":887.5,"scrollY":1132.5},
 {"id":4,"expanded":false,"name":"ThePlaceTheDoorGoes","order":8,"parentId":2,"scrollX":772.5,"scrollY":475.5},
 {"id":5,"expanded":true,"name":"Museum","order":1,"parentId":0,"scrollX":3058.3636363636365,"scrollY":5329.636363636364},
 {"id":6,"expanded":false,"name":"The Director's Office","order":3,"parentId":5,"scrollX":1566,"scrollY":1268.1818181818182},
