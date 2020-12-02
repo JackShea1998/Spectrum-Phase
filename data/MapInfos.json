@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"TestMaps","order":3,"parentId":0,"scrollX":2115.5,"scrollY":2412.5},
-{"id":2,"expanded":true,"name":"Experiment626","order":4,"parentId":1,"scrollX":772.5,"scrollY":475.5},
+{"id":2,"expanded":true,"name":"Experiment626","order":4,"parentId":1,"scrollX":5616,"scrollY":3106.285714285714},
 {"id":3,"expanded":false,"name":"Snowball'sRoom","order":2,"parentId":5,"scrollX":904.5,"scrollY":1270.5},
-{"id":4,"expanded":false,"name":"ThePlaceTheDoorGoes","order":5,"parentId":2,"scrollX":772.5,"scrollY":475.5},
-{"id":5,"expanded":true,"name":"Museum","order":1,"parentId":0,"scrollX":3603.5,"scrollY":5246.5}
+{"id":4,"expanded":false,"name":"ThePlaceTheDoorGoes","order":5,"parentId":2,"scrollX":819,"scrollY":453},
+{"id":5,"expanded":true,"name":"Museum","order":1,"parentId":0,"scrollX":811,"scrollY":1996}
 ]
