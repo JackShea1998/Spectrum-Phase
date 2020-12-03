@@ -1,13 +1,11 @@
 [
 null,
-
-{"id":1,"expanded":true,"name":"TestMaps","order":6,"parentId":0,"scrollX":1965,"scrollY":1902.6},
+{"id":1,"expanded":true,"name":"TestMaps","order":6,"parentId":0,"scrollX":2046,"scrollY":1902},
 {"id":2,"expanded":true,"name":"Experiment626","order":7,"parentId":1,"scrollX":842.7272727272727,"scrollY":518.7272727272727},
-{"id":3,"expanded":false,"name":"Snowball'sRoom","order":2,"parentId":5,"scrollX":1255.8,"scrollY":1515},
-{"id":4,"expanded":false,"name":"ThePlaceTheDoorGoes","order":8,"parentId":2,"scrollX":924.5999999999999,"scrollY":562.1999999999999},
-{"id":5,"expanded":true,"name":"Museum","order":1,"parentId":0,"scrollX":3093,"scrollY":5363.4},
-{"id":6,"expanded":false,"name":"The Director's Office","order":3,"parentId":5,"scrollX":1722.2222222222222,"scrollY":1990.6666666666667},
-{"id":7,"expanded":false,"name":"Bathroom","order":4,"parentId":5,"scrollX":1143.75,"scrollY":960.75},
-{"id":8,"expanded":false,"name":"Janitor's Closet","order":5,"parentId":5,"scrollX":915,"scrollY":877.8}
-
+{"id":3,"expanded":false,"name":"Snowball'sRoom","order":2,"parentId":5,"scrollX":1112,"scrollY":1955},
+{"id":4,"expanded":false,"name":"ThePlaceTheDoorGoes","order":8,"parentId":2,"scrollX":772.5,"scrollY":475.5},
+{"id":5,"expanded":true,"name":"Museum","order":1,"parentId":0,"scrollX":2106,"scrollY":6626},
+{"id":6,"expanded":false,"name":"The Director's Office","order":3,"parentId":5,"scrollX":811,"scrollY":1184},
+{"id":7,"expanded":false,"name":"Bathroom","order":4,"parentId":5,"scrollX":850,"scrollY":948},
+{"id":8,"expanded":false,"name":"Janitor's Closet","order":5,"parentId":5,"scrollX":811,"scrollY":838}
 ]
